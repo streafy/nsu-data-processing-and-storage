@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/java-concurrency" />
             <option value="$PROJECT_DIR$/java-concurrency/task-j1" />
             <option value="$PROJECT_DIR$/java-concurrency/task-j2" />
+            <option value="$PROJECT_DIR$/java-concurrency/task-j3" />
           </set>
         </option>
       </GradleProjectSettings>
